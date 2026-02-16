@@ -63,13 +63,14 @@ I've spent most of my career in regulated industries where data quality, governa
 ### Currently learning
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) Certification in progress — Data Engineer Associate
+
 ![Microsoft Fabric](https://img.shields.io/badge/DP--700-0078D4?style=flat&logo=microsoft&logoColor=white) Microsoft Fabric Analytics Engineer
 
 ---
 
 ### About me
 
-Based in Luxembourg. Father of two. When I'm not wrangling data, I'm probably playing **World of Warcraft Classic** or exploring **Elden Ring**.
+Based in Luxembourg. Father of two. When I'm not wrangling data, I'm probably playing **World of Warcraft Classic** or exploring **Elden Ring**, **RPG games**.
 
 I value pragmatic solutions over complex architectures, and I'm not afraid to challenge technology hype when simpler approaches work better.
 
