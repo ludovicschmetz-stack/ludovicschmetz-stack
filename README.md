@@ -1,20 +1,38 @@
 # Hey, I'm Ludovic 👋
 
-**Senior Data Engineer & Architect** — Luxembourg 🇱🇺
+**Independent Senior Data Engineer & Architect** — Luxembourg 🇱🇺
 
 20 years designing and operating data platforms across regulated industries. I build things that process millions of records daily, survive production incidents at 2 AM, and are still maintainable by the next engineer.
 
+**Currently available for freelance missions** — remote or Luxembourg-based.
+
 ---
 
-### What I do
+### What I bring to the table
 
-I design **cloud-native data platforms end-to-end** — from source integration to consumption layer. Current production numbers:
+I design **cloud-native data platforms end-to-end** — from source integration to consumption layer. Production-proven numbers:
 
 - **40 million data points** ingested daily with **99.9% uptime**
 - **200+ SAP tables** replicated via CDC (SCD Type 2)
 - **1,000+ data pipelines** delivered across **14 countries**
 - Multi-source integration: databases, APIs, SFTP, file systems, ERPs
 - Medallion architecture (Bronze/Silver/Gold) with automated data quality gates
+
+Whether you need a platform built from scratch, a migration executed without downtime, or an existing architecture audited and optimized — that's what I do.
+
+---
+
+### Open Source
+
+📜 **[DataVow](https://github.com/ludovicschmetz-stack/datavow)** — Data contract enforcement for modern data teams. From YAML to verdict.
+
+Define contracts in YAML (ODCS v3.1), validate anywhere (CSV, Parquet, JSON, any dbt warehouse), block in CI, report for stakeholders. Powered by DuckDB. Ships with a CLI, a dbt package, and a GitHub Action.
+
+`pip install datavow` → [datavow-action](https://github.com/ludovicschmetz-stack/datavow-action) → [datavow-dbt](https://github.com/ludovicschmetz-stack/datavow-dbt)
+
+🏛️ **[Olympus](https://github.com/ludovicschmetz-stack/olympus)** — Multi-agent AI code review framework for Claude Code.
+
+4 specialized AI reviewers (Security, DDD, Edge Cases, Simplicity) that produce a scored quality report for every piece of code. No framework, no dependencies — just battle-tested prompts and a proven workflow.
 
 ---
 
@@ -46,17 +64,11 @@ I design **cloud-native data platforms end-to-end** — from source integration 
 
 ---
 
-### What you'll find here
-
-🏛️ **[Olympus](https://github.com/ludovicschmetz-stack/olympus)** — A multi-agent AI code review framework for Claude Code. 4 specialized reviewers (Security, DDD, Edge Cases, Simplicity) that produce a scored quality report for every piece of code. No framework, no dependencies — just battle-tested prompts and a proven workflow.
-
----
-
 ### Industries
 
 **Energy · Banking · Insurance · Telecom · Fund Management**
 
-I've spent most of my career in regulated industries where data quality, governance, and reliability aren't optional — they're compliance.
+Regulated industries where data quality, governance, and reliability aren't optional — they're compliance. That's where I've built my career, and that's the standard I bring to every project.
 
 ---
 
@@ -70,13 +82,15 @@ I've spent most of my career in regulated industries where data quality, governa
 
 ### About me
 
-Based in Luxembourg. Father of two. When I'm not wrangling data, I'm probably playing **World of Warcraft Classic** or exploring **Elden Ring**, **RPG games**.
+Based in Luxembourg. Father of two. When I'm not wrangling data, I'm probably playing **World of Warcraft Classic** or dying in **Elden Ring**.
 
 I value pragmatic solutions over complex architectures, and I'm not afraid to challenge technology hype when simpler approaches work better.
 
 ---
 
 ### Get in touch
+
+**Open to freelance missions** — data platform design, data contract implementation, architecture audit, cloud migration, pipeline engineering.
 
 [![Email](https://img.shields.io/badge/Email-ludovic.schmetz@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ludovic.schmetz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ludovicschmetz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovicschmetz/)
